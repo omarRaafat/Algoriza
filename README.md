@@ -1,4 +1,4 @@
-# Algoriza PHP TASK With Auto Xode Updates (Automated Page reload On Code Build)
+# Algoriza PHP TASK With Auto Vite Updates 
 - Laravel 9.0
 
 
