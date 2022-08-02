@@ -1,4 +1,4 @@
-# Algoriza PHP TASK With Auto Vite Updates 
+# Algoriza PHP TASK 
 - Laravel 9.0
 
 
