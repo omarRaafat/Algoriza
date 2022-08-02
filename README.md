@@ -28,3 +28,4 @@ if you get any errors in this step, when seeding the database, realted to exsist
 
 
 # algoriza
+# algoriza
